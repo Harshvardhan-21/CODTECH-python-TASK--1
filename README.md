@@ -1,4 +1,4 @@
-NAME: Harsh Vardhan
+NAME: Harshvardhan
 
 COMPANY: CODTECH IT SOLUTION
 
