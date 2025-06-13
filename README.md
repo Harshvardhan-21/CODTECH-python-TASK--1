@@ -15,7 +15,7 @@ ABOUT ME
 
 Hi, I'm Harsh Vardhan, a motivated and tech-enthusiastic BCA student, currently in my 2nd year at Guru Kashi University. I have a passion for web development and creating user-focused digital experiences. This project is part of my internship task at CodeTech, where I demonstrated my skills in building a Weather Forecast Visualization.
 
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 This project fetches 5-day weather forecast data from the **OpenWeatherMap API** and visualizes **temperature** and **humidity** using Python libraries like `matplotlib` and `seaborn`.
 
 ## 🔧 Features
